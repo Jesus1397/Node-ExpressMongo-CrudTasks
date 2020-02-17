@@ -1,0 +1,28 @@
+{
+  "name": "Node---CrudConMongoDB",
+  "version": "1.0.0",
+  "description": "Node---CrudConMongoDB",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.12",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/God-Jr/Node---CrudConMongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/God-Jr/Node---CrudConMongoDB/issues"
+  },
+  "homepage": "https://github.com/God-Jr/Node---CrudConMongoDB#readme"
+}
